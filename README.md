@@ -16,8 +16,7 @@ Research projects
 Data-driven business solutions
 AI/ML applications
 
-📫 Reach out to me:
-LinkedIn
+📫 Reach out to me - [LinkedIn](https://www.linkedin.com/in/atifc2/)
 
 
 <!---
