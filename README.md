@@ -18,7 +18,7 @@ AI/ML applications
 
 📫 Reach out to me:
 LinkedIn
-📫 How to reach me - [LinkedIn](https://www.linkedin.com/in/atifc2/)
+
 
 <!---
 atifc2/atifc2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
