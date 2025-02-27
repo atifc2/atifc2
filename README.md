@@ -1,14 +1,7 @@
 Hi there! 👋 I'm Atif Chowdhury
 
-🔍 Areas of Interest:
-Data Analytics
-Machine Learning & AI
-Business Intelligence & Data Visualization
-Process Automation & Data Modeling
-
-🚀 Current Focus:
-Advancing my skills in AI, Machine Learning, and Business Intelligence
-Collaborating on cutting-edge data science and analytics projects
+🔍 Areas of Interest: Data Analytics, Machine Learning, LLMs, Business Intelligence, Dashboards, Process Automation
+🚀 Current Focus: Advancing my skills in AI, Machine Learning, and Business Intelligence Collaborating on cutting-edge data science and analytics projects
 
 🤝 Open to Collaboration:
 Product Building
