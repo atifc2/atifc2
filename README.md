@@ -5,15 +5,17 @@ Data Analytics
 Machine Learning & AI
 Business Intelligence & Data Visualization
 Process Automation & Data Modeling
-🚀 Current Focus:
 
+🚀 Current Focus:
 Advancing my skills in AI, Machine Learning, and Business Intelligence
 Collaborating on cutting-edge data science and analytics projects
-🤝 Open to Collaboration:
 
+🤝 Open to Collaboration:
+Product Building
 Research projects
 Data-driven business solutions
 AI/ML applications
+
 📫 Reach out to me:
 LinkedIn
 📫 How to reach me - [LinkedIn](https://www.linkedin.com/in/atifc2/)
